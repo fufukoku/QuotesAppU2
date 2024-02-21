@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuotesAppU2</string>
+    <string name="quotes1">You cannot escape the responsibility of tomorrow by evading it today.</string>
+    <string name="quotes2">You can get everything in life you want if you will just help enough other</string>
+    <string name="quotes3">It isnt over until it is over</string>
+    <string name="quotes4">Talking isnt doing. It is kind of good</string>
+    <string name="quotes5">Description the writers image but should finish readers</string>
+    <string name="quotes6">All art is a kind of confession</string>
+    <string name="quotes7">Dont tell me the mod shining</string>
+    <string name="quotes8">Keep away from people who try to be your ambitions</string>
+    <string name="quotes9">Authors is good for quotes</string>
+    <string name="quotes10">I rose up my voice not shout but can be heard</string>
+    <string name="author1">Lincoln</string>
+    <string name="author2">Ziglar</string>
+    <string name="author3">Yogi</string>
+    <string name="author4">Nietzsche</string>
+    <string name="author5">Stephen</string>
+    <string name="author6">James</string>
+    <string name="author7">Anton</string>
+    <string name="author8">Mark</string>
+    <string name="author9">Maya</string>
+    <string name="author10">Malala</string>
+</resources>
